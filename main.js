@@ -10,7 +10,6 @@ function getRandom (min, max) {
 }
 
 function showResponse(response1) {
-  // document.querySelector('div.response response').innerHTML = response1;
   document.querySelector('div.response').innerHTML = response1;
 }
 
